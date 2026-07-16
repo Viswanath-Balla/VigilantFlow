@@ -1,0 +1,5 @@
+outs:
+- md5: 1161825a43e7effc383b1335aaa946a3
+  size: 82334528
+  hash: md5
+  path: training_data.npy
